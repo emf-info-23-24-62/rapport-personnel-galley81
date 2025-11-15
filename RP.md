@@ -709,4 +709,4 @@ ou
 
 # Conclusion
 
-> Votre conclusion avec les éléments usuels
+La conclusion ne sert à rien ...
